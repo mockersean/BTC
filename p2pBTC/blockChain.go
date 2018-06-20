@@ -9,7 +9,7 @@ import (
 const dbfile  = "blockChainDB.db"
 const blockBucket  = "block"
 const lastHash = "lastHash"
-const gensisBlockInfo  = "黄义庆"
+const gensisBlockInfo  = "Sean"
 
 
 type  BlockChain struct {

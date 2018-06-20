@@ -23,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="proofofowork.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="proofofowork.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proofofowork.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            <state relative-caret-position="210">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -59,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blockChain.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blockChain.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blockChain.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1710">
-              <caret line="118" column="39" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="39" />
+            <state relative-caret-position="195">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -134,8 +134,8 @@
         <option value="$PROJECT_DIR$/transaction.go" />
         <option value="$PROJECT_DIR$/cli.go" />
         <option value="$PROJECT_DIR$/main.go" />
-        <option value="$PROJECT_DIR$/blockChain.go" />
         <option value="$PROJECT_DIR$/block.go" />
+        <option value="$PROJECT_DIR$/blockChain.go" />
       </list>
     </option>
   </component>
@@ -149,7 +149,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="187" />
+    <option name="x" value="148" />
     <option name="y" value="23" />
     <option name="width" value="1404" />
     <option name="height" value="877" />
@@ -164,8 +164,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="p2pBIC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="p2pBIC" type="462c0819:PsiDirectoryNode" />
+              <item name="p2pBTC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pBTC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,10 +216,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="187" y="23" width="1404" height="877" extended-state="0" />
+    <frame x="148" y="23" width="1404" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19016153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19236417" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.18108109" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
@@ -596,17 +596,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blockChain.go">
+    <entry file="file://$PROJECT_DIR$/proofofowork.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="118" column="39" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="39" />
+        <state relative-caret-position="210">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proofofowork.go">
+    <entry file="file://$PROJECT_DIR$/blockChain.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        <state relative-caret-position="195">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
